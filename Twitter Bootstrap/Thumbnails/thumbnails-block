@@ -1,0 +1,1 @@
+﻿#INDENT#<ul class="thumbnails">    <li class="span3">        <div class="thumbnail">            <img src="#PLACEHOLDERSTART#http://placehold.it/260x180#PLACEHOLDEREND#" alt="">            <h5>#PLACEHOLDERSTART#Thumbnail label#PLACEHOLDEREND#</h5>            <p>#PLACEHOLDERSTART#Thumbnail caption#PLACEHOLDEREND#</p>        </div>    </li></ul>
