@@ -62,15 +62,10 @@ below, organized according to Bootstrap's documentation:
     * Button group: `btn-group`
     * Button toolbar: `btn-toolbar`
 * [Button dropdowns](http://twitter.github.com/bootstrap/components.html#buttonDropdowns):
-    * _None_
 * [Nav, tabs, pills](http://twitter.github.com/bootstrap/components.html#navs):
-    * _None_
 * [Navbar](http://twitter.github.com/bootstrap/components.html#navbars):
-    * _None_
 * [Breadcrumbs](http://twitter.github.com/bootstrap/components.html#breadcrumbs):
-    * _None_
 * [Pagination](http://twitter.github.com/bootstrap/components.html#pagination):
-    * _None_
 * [Labels](http://twitter.github.com/bootstrap/components.html#labels):
     * Default: `label`
     * Primary: `label-primary`
