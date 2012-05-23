@@ -97,6 +97,10 @@ below, organized according to Bootstrap's documentation:
 * [Breadcrumbs](http://twitter.github.com/bootstrap/components.html#breadcrumbs):
     * Breadcrumbs: `breadcrumb`
 * [Pagination](http://twitter.github.com/bootstrap/components.html#pagination):
+    * Multicon-page pagination: `pagination`
+    * Multicon-page pagination (centered): `pagination-centered`
+    * Pager: `pager`
+    * Pager (aligned to sides): `pager aligned`
 * [Labels](http://twitter.github.com/bootstrap/components.html#labels):
     * Default: `label`
     * Success: `label-success`
