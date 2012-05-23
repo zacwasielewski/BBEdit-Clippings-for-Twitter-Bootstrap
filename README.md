@@ -2,7 +2,9 @@ BBEdit Clippings for Twitter Bootstrap
 ======================================
 
 This is a set of [BBEdit](http://barebones.com/products/bbedit) clippings for use with
- [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
+[Twitter Bootstrap](http://twitter.github.com/bootstrap/).
+
+Feel free to fork and improve or add to this project. Pull requests are welcome!
 
 Installation
 ------------
@@ -12,10 +14,10 @@ and restart BBEdit. You should now see `Twitter Bootstrap` under BBEdit's `Clipp
 
 More information: [How to create and use BBEdit clippings](http://www.macworld.com/article/1166149/how_to_create_and_use_bbedit_clippings.html)
 
-Elements
---------
+Clippings
+---------
 
-Only a subset of Bootstrap's syntax has been implemented so far. Clipping syntax generally
+Only a subset of Bootstrap has been implemented so far. Clipping syntax generally
 corresponds to an element's CSS class name in Bootstrap. Available clippings are listed
 below, organized according to Bootstrap's documentation:
 
@@ -110,7 +112,7 @@ below, organized according to Bootstrap's documentation:
 * [Carousel](http://twitter.github.com/bootstrap/javascript.html#carousel):
 * [Typeahead](http://twitter.github.com/bootstrap/javascript.html#typeahead):
 
-Please send all request for bugs fixes or recommendations to:
--------------------------------------------------------------
+Please send all requests for bugs fixes or recommendations to:
+--------------------------------------------------------------
 
 [https://github.com/zacwasielewski/BBEdit-Clippings-for-Twitter-Bootstrap/issues](https://github.com/zacwasielewski/BBEdit-Clippings-for-Twitter-Bootstrap/issues)
