@@ -1,0 +1,10 @@
+#INDENT#
+<div class="btn-group">
+    <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+        #PLACEHOLDERSTART#Action#PLACEHOLDEREND#
+        <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+        #PLACEHOLDERSTART#<!-- dropdown menu links -->#PLACEHOLDEREND#
+    </ul>
+</div>

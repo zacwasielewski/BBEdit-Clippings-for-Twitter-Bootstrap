@@ -82,6 +82,9 @@ below, organized according to Bootstrap's documentation:
     * Button group: `btn-group`
     * Button toolbar: `btn-toolbar`
 * [Button dropdowns](http://twitter.github.com/bootstrap/components.html#buttonDropdowns):
+    * Button dropdowns: `btn dropdown`
+    * Split button dropdowns: `btn dropdown split`
+    * Dropup menus: `btn dropup`
 * [Nav, tabs, pills](http://twitter.github.com/bootstrap/components.html#navs):
 * [Navbar](http://twitter.github.com/bootstrap/components.html#navbars):
 * [Breadcrumbs](http://twitter.github.com/bootstrap/components.html#breadcrumbs):
