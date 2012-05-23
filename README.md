@@ -88,19 +88,17 @@ below, organized according to Bootstrap's documentation:
 * [Pagination](http://twitter.github.com/bootstrap/components.html#pagination):
 * [Labels](http://twitter.github.com/bootstrap/components.html#labels):
     * Default: `label`
-    * Primary: `label-primary`
-    * Info: `label-info`
     * Success: `label-success`
     * Warning: `label-warning`
-    * Danger: `label-danger`
+    * Important: `label-important`
+    * Info: `label-info`
     * Inverse: `label-inverse`
 * [Badges](http://twitter.github.com/bootstrap/components.html#badges):
     * Default: `badge`
-    * Primary: `badge-primary`
-    * Info: `badge-info`
     * Success: `badge-success`
     * Warning: `badge-warning`
-    * Danger: `badge-danger`
+    * Error: `badge-error`
+    * Info: `badge-info`
     * Inverse: `badge-inverse`
 * [Typography](http://twitter.github.com/bootstrap/components.html#typography):
     * Hero unit: `hero-unit`
