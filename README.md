@@ -86,6 +86,13 @@ below, organized according to Bootstrap's documentation:
     * Split button dropdowns: `btn dropdown split`
     * Dropup menus: `btn dropup`
 * [Nav, tabs, pills](http://twitter.github.com/bootstrap/components.html#navs):
+    * Basic tabs: `nav-tabs`
+    * Basic pills: `nav-pills`
+    * Stacked tabs: `nav-tabs stacked`
+    * Stacked pills: `nav-pills stacked`
+    * Tabs with dropdowns: `nav-tabs dropdown`
+    * Pills with dropdowns: `nav-pills dropdown`
+    * Application-style navigation: `nav-list`
 * [Navbar](http://twitter.github.com/bootstrap/components.html#navbars):
 * [Breadcrumbs](http://twitter.github.com/bootstrap/components.html#breadcrumbs):
 * [Pagination](http://twitter.github.com/bootstrap/components.html#pagination):

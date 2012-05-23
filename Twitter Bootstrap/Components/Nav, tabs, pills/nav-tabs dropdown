@@ -1,0 +1,14 @@
+﻿#INDENT#
+<ul class="nav nav-tabs">
+    <li class="dropdown">
+        <a class="dropdown-toggle"
+            data-toggle="dropdown"
+            href="#">
+            #PLACEHOLDERSTART#Dropdown#PLACEHOLDEREND#
+            <b class="caret"></b>
+        </a>
+        <ul class="dropdown-menu">
+            #PLACEHOLDERSTART#<!-- links -->#PLACEHOLDEREND#
+        </ul>
+    </li>
+</ul>
