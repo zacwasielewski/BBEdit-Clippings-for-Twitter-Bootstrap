@@ -32,6 +32,8 @@ below, organized according to Bootstrap's documentation:
     * Fluid nesting: `row-fluid nesting`
 * [Customizing](http://twitter.github.com/bootstrap/scaffolding.html#gridCustomization):
 * [Layouts](http://twitter.github.com/bootstrap/scaffolding.html#layouts):
+    * Fixed layout: `container`
+    * Fluid layout: `container-fluid`
 * [Responsive design](http://twitter.github.com/bootstrap/scaffolding.html#responsive):
 
 ### Base CSS
