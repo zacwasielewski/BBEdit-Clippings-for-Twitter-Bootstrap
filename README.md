@@ -95,6 +95,7 @@ below, organized according to Bootstrap's documentation:
     * Application-style navigation: `nav-list`
 * [Navbar](http://twitter.github.com/bootstrap/components.html#navbars):
 * [Breadcrumbs](http://twitter.github.com/bootstrap/components.html#breadcrumbs):
+    * Breadcrumbs: `breadcrumb`
 * [Pagination](http://twitter.github.com/bootstrap/components.html#pagination):
 * [Labels](http://twitter.github.com/bootstrap/components.html#labels):
     * Default: `label`
