@@ -127,6 +127,9 @@ below, organized according to Bootstrap's documentation:
     * Success: `alert-success`
     * Info: `alert-info`
 * [Progress bars](http://twitter.github.com/bootstrap/components.html#progress):
+    * Basic: `progress`
+    * Striped: `progress-striped`
+    * Animated: `progress-striped animated`
 * [Miscellaneous](http://twitter.github.com/bootstrap/components.html#misc):
 
 ### Javascript plugins

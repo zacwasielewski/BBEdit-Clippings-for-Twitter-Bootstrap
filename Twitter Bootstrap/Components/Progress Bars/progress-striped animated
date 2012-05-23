@@ -1,0 +1,4 @@
+﻿#INDENT#
+<div class="progress progress-striped active">
+    <div class="bar" style="width: 60%;"></div>
+</div>
