@@ -69,6 +69,10 @@ below, organized according to Bootstrap's documentation:
     * Warning: `btn-warning`
     * Danger: `btn-danger`
     * Inverse: `btn-inverse`
+    * Large: `btn-large`
+    * Small: `btn-small`
+    * Mini: `btn-mini`
+    * Disabled: `btn disabled`
 * [Icons by Glyphicons](http://twitter.github.com/bootstrap/base-css.html#icons):
     * Icon: `icon`
 
