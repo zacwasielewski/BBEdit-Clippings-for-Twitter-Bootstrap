@@ -42,6 +42,14 @@ below, organized according to Bootstrap's documentation:
 
 * [Typography](http://twitter.github.com/bootstrap/base-css.html#typography):
     * Blockquote: `blockquote`
+    * Blockquote (floated left): `blockquote pull-left`
+    * Blockquote (floated right): `blockquote pull-right`
+    * Lists:
+        * Unordered: `ul`
+        * Unstyled: `ul unstyled`
+        * Ordered: `ol`
+        * Description: `dl`
+        * Horizontal description: `dl horizontal`
 * [Code](http://twitter.github.com/bootstrap/base-css.html#code):
 * [Tables](http://twitter.github.com/bootstrap/base-css.html#tables):
     * Basic: `table`
