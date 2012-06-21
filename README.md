@@ -131,6 +131,9 @@ below, organized according to Bootstrap's documentation:
     * Striped: `progress-striped`
     * Animated: `progress-striped animated`
 * [Miscellaneous](http://twitter.github.com/bootstrap/components.html#misc):
+    * Well: `well`
+    * Close icon (button): `close button`
+    * Close icon (anchor): `close anchor`
 
 ### Javascript plugins
 
