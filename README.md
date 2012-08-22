@@ -26,9 +26,11 @@ below, organized according to Bootstrap's documentation:
 * [Global Styles](http://twitter.github.com/bootstrap/scaffolding.html#global)
 * [Grid system](http://twitter.github.com/bootstrap/scaffolding.html#gridSystem):
     * Row: `row`
+    * Offsetting columns: `row offset`
     * Nesting columns: `row nesting`
 * [Fluid grid system](http://twitter.github.com/bootstrap/scaffolding.html#fluidGridSystem):
     * Fluid row: `row-fluid`
+    * Fluid offsetting: `row-fluid offset`
     * Fluid nesting: `row-fluid nesting`
 * [Customizing](http://twitter.github.com/bootstrap/scaffolding.html#gridCustomization)
 * [Layouts](http://twitter.github.com/bootstrap/scaffolding.html#layouts):
