@@ -37,7 +37,7 @@ below, organized according to Bootstrap's documentation:
     * Fixed layout: `container`
     * Fluid layout: `container-fluid`
 * [Responsive design](http://twitter.github.com/bootstrap/scaffolding.html#responsive):
-    * Meta tag: `responsive meta tag`
+    * Enabling responsive features: `responsive head tags`
     * Media queries (CSS): `responsive media queries`
     
 ### Base CSS
